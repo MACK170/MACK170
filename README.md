@@ -9,3 +9,7 @@ Meu nome é Felipe Alves
 -Sou estudante da Alura.
 
 Para entrar em contato: 00001099417326sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/RYaHKrtGrxEAAAAC/dodge-challenger-challenger.gif)
